@@ -2,6 +2,7 @@
     "files.associations": {
         "string": "cpp",
         "iosfwd": "cpp",
-        "unordered_map": "cpp"
+        "unordered_map": "cpp",
+        "list": "cpp"
     }
 }
